@@ -1,7 +1,14 @@
 
+![Whatsapp chat](/Whatsapp_Chat_analysis.jpeg)
+
 # Analysing the Whatsapp group chat with my 3 daughters
 
 My girls live pretty far away from me, so Whatsapp is an important part of how we communicate. So I decided to analyse our chats over the last 2 years and see what I find!
+
+## Jupyter notebook
+
+The full Jupyter notebook with comments can be found [here](whatsapp_chat.ipynb). 
+The raw text file for the chat can be found [here](_chat.txt)
 
 ## Technologies/Libraries used
 
